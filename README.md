@@ -1,6 +1,6 @@
 # Docker Application (RESTful service) using Python and Flask 
 
-Ankit Mohokar and I have created a docker container running on Python and Flask. This container runs a RESTful service which displays collection of records and also displays single record assigned to a specific ID.
+I have created a docker container running on Python and Flask. This container runs a RESTful service which displays collection of records and also displays single record assigned to a specific ID.
 
 In order to run:
 
